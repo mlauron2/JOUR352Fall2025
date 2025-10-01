@@ -1,3 +1,39 @@
 body {
-  background-color:#ffffff;
+  background-color:#16ba53;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
+
+}
+p{color: #ffffff}
+
+
+/*THIS IS A CSS COMMENT - IT DOES NOTHING BUT SIT HERE*/
+
+h1 {color: #ffffff; background-color: #000000; padding: 50px; text-align: center; margin: 50px 0 50px 0;}
+
+a {color: #fcd13f; text-decoration: none;
+}
+
+a:visited {color: #fcd13f; text-decoration: none
+a:hover {color: #000000;}
+
+
+.videoPageColor {background-color: #f4f4f4}
+
+
+.videohHeadline {color: #6efc3f}
+
+
+
+/*THIS IS MY RELATED INFO STYLE */
+
+.relatedInfo {border: solid 1px #000000;
+padding: 20px; background-color: #666666;
+width: 50%; border-radius: 20px;}
+
+
+
+
+
