@@ -1,0 +1,65 @@
+<!-- Sample CSS from Berlin story -->
+
+body {
+
+}
+
+h1 {
+text-align: center;
+color: #ffffff; background-color: #00873E; padding: 50px; text-align: center; margin: 50px 0 50px 0;}
+  
+
+}
+}
+
+
+
+p {
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+
+}
+.byline {
+	text-align: center;
+}
+.bodyCopy {
+	padding: 50px 0 0 0;
+}
+.footerStyle {
+	background-color: #00873E;
+	color: #fff;
+	padding: 12px;
+	height: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+.pullquote {
+	text-align: center;
+	float: center;
+	font-size: 30px;
+	font-style: italic;
+	color: #00873E;
+
+}
+.callout {
+	text-align: center;
+	float: center;
+	padding: 0, 10px, 0, 10px;
+	background-color: #00873E;
+}
+.rtt {
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt a {
+	color: #009cff;
+	text-decoration: none;
+	font-weight: bold;
+}
+.rtt a:hover {
+	color: #09639c;
+}
